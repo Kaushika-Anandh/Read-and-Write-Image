@@ -18,9 +18,11 @@ Use imshow(window_name, image) to display the image.
 Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
+
 ## Program:
-### Developed By:
-### Register Number: 
+### Developed By: Kaushika A
+### Register Number: 212221230048
+
 i) #To Read,display the image
 ```python
 # displaying image in color
