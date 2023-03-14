@@ -22,60 +22,75 @@ End the program and close the output image windows.
 ### Developed By:
 ### Register Number: 
 i) #To Read,display the image
+```python
+# displaying image in color
+img=cv2.imread("megumi.jpg",1) 
+cv2.imshow("image",img)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
 ```
-  
 
+```python
+# displaying image in grayscale
+img2=cv2.imread("megumi.jpg",0)
+cv2.imshow("image",img2)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
 ```
 ii) #To write the image
-```
-
-
-
+```python
+cv2.imwrite('saved_original.jpg',img)
+cv2.imwrite('saved_grayscale.jpg',img2)
 ```
 iii) #Find the shape of the Image
-```python3
-
-
-
+```python
+print(img.shape)
+print(img2.shape)
 ```
 iv) #To access rows and columns
 
-```python3
-
-
-
+```python
+import random
+for i in range(172,373):
+    for j in range(172,373):
+        img[i][j]=[random.randint(0,255),random.randint(0,255),random.randint(0,255)]
+cv2.imshow('part image',img)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
 ```
 v) #To cut and paste portion of image
-```python3
-
-
-
+```python
+img3=cv2.imread("megumi.jpg",1)
+cut=img3[172:221,172:373]
+img3[221:270,172:373]=cut
+cv2.imshow('212221230048',img3)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
 ```
 
 ## Output:
 
-### i) Read and display the image
+## i) Read and display the image
+### original image
+![](1.PNG)
 
-<br>
-<br>
+### grayscale image
+![](2.PNG)
 
-### ii)Write the image
+## ii)Write the image
+![](3.PNG)
 
-<br>
-<br>
+### saved image in folder
+![](4.PNG)
 
-### iii)Shape of the Image
+## iii)Shape of the Image
+![](5.PNG)
 
-<br>
-<br>
+## iv)Access rows and columns
+![](6.PNG)
 
-### iv)Access rows and columns
-<br>
-<br>
-
-### v)Cut and paste portion of image
-<br>
-<br>
+## v)Cut and paste portion of image
+![](7.PNG)
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
