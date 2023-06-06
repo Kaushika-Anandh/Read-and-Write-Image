@@ -97,25 +97,25 @@ cv2.destroyAllWindows()
 
 ## i) Read and display the image
 ### original image
-![](1.PNG)
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/1.PNG" width="400" height="420">
 
 ### grayscale image
-![](2.PNG)
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/2.PNG" width="400" height="420">
 
 ## ii)Write the image
-![](3.PNG)
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/3.PNG" width="420" height="120">
 
 ### saved image in folder
-![](4.PNG)
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/4.PNG" width="600" height="220">
 
 ## iii)Shape of the Image
 ![](5.PNG)
 
 ## iv)Access rows and columns
-![](6.PNG)
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/6.PNG" width="400" height="420">
 
 ## v)Cut and paste portion of image
-![](7.PNG)
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/7.PNG" width="400" height="420">
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
