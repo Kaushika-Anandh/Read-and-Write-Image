@@ -44,7 +44,7 @@ Anaconda - Python 3.7
 
 ## Program:
 
-> Developed By: Kaushika A    
+> Developed By: Kaushika A    <br>
 > Register Number: 212221230048
 
 **i) To Read,display the image**
