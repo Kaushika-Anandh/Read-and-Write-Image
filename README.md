@@ -54,9 +54,7 @@ img=cv2.imread("megumi.jpg",1)
 cv2.imshow("image",img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-```
 
-```python
 # displaying image in grayscale
 img2=cv2.imread("megumi.jpg",0)
 cv2.imshow("image",img2)
@@ -92,29 +90,28 @@ cv2.imshow('212221230048',img3)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-
 ## Output:
 
-## i) Read and display the image
-### original image
+### i) Read and display the image
+#### original image
 <img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/1.PNG" width="300" height="320">
 
-### grayscale image
+#### grayscale image
 <img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/2.PNG" width="300" height="320">
 
-## ii)Write the image
+### ii)Write the image
 <img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/3.PNG" width="210" height="50">
 
-### saved image in folder
+#### saved image in folder
 <img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/4.PNG" width="400" height="150">
 
-## iii)Shape of the Image
+### iii)Shape of the Image
 <img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/5.PNG" width="140" height="50">
 
-## iv)Access rows and columns
+### iv)Access rows and columns
 <img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/6.PNG" width="300" height="320">
 
-## v)Cut and paste portion of image
+### v)Cut and paste portion of image
 <img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/7.PNG" width="300" height="320">
 
 ## Result:
