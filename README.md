@@ -97,25 +97,25 @@ cv2.destroyAllWindows()
 
 ## i) Read and display the image
 ### original image
-<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/1.PNG" width="400" height="420">
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/1.PNG" width="300" height="320">
 
 ### grayscale image
-<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/2.PNG" width="400" height="420">
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/2.PNG" width="300" height="320">
 
 ## ii)Write the image
-<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/3.PNG" width="420" height="120">
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/3.PNG" width="420" height="100">
 
 ### saved image in folder
 <img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/4.PNG" width="600" height="220">
 
 ## iii)Shape of the Image
-![](5.PNG)
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/5.PNG" width="280" height="100">
 
 ## iv)Access rows and columns
-<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/6.PNG" width="400" height="420">
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/6.PNG" width="300" height="320">
 
 ## v)Cut and paste portion of image
-<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/7.PNG" width="400" height="420">
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/7.PNG" width="300" height="320">
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
