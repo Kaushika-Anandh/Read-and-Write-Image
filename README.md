@@ -106,7 +106,7 @@ cv2.destroyAllWindows()
 <img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/3.PNG" width="420" height="100">
 
 ### saved image in folder
-<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/4.PNG" width="600" height="220">
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/4.PNG" width="300" height="110">
 
 ## iii)Shape of the Image
 <img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/5.PNG" width="280" height="100">
