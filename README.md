@@ -103,13 +103,13 @@ cv2.destroyAllWindows()
 <img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/2.PNG" width="300" height="320">
 
 ## ii)Write the image
-<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/3.PNG" width="420" height="100">
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/3.PNG" width="210" height="50">
 
 ### saved image in folder
-<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/4.PNG" width="300" height="110">
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/4.PNG" width="400" height="210">
 
 ## iii)Shape of the Image
-<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/5.PNG" width="280" height="100">
+<img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/5.PNG" width="140" height="50">
 
 ## iv)Access rows and columns
 <img src="https://github.com/Kaushika-Anandh/Read-and-Write-Image/blob/main/6.PNG" width="300" height="320">
